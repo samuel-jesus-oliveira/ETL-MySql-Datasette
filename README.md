@@ -1,4 +1,4 @@
-![Banner do Projeto].()
+![Banner do Projeto](assets/banner.png)
 
 
 # Projeto Integrador – ETL de Dados da Olist (MySQL)
